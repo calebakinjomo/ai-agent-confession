@@ -2,6 +2,7 @@
 
 Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt
 (default /output/entry.txt) and prints exactly the same line.
+The entry is one self-deprecating confession, printed verbatim.
 Python 3, stdlib only, no network, no input.
 """
 
